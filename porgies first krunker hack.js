@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name          Krunker SkidFest
+// @name          porg hax menu
 // @description   A full featured Mod menu for game Krunker.io!
 // @version       2.17
 // @author       sensei-porgie
